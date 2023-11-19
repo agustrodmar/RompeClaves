@@ -6,7 +6,7 @@ class Program
     static void Main()
     {
         string myPassword = "cQw49yt5ZvVnO+lWVnrVS9Tr7n0HXnFQUiujoIkhu6M=";
-        string path = "/Users/agustrodmar/RiderProjects/RompeClaves/2151220-passwords.txt"; 
+        string path = "./2151220-passwords.txt"; 
 
         try
         {
