@@ -1,0 +1,15 @@
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/bin/Debug/net7.0/RompeClaves
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/bin/Debug/net7.0/RompeClaves.deps.json
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/bin/Debug/net7.0/RompeClaves.runtimeconfig.json
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/bin/Debug/net7.0/RompeClaves.dll
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/bin/Debug/net7.0/RompeClaves.pdb
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.csproj.AssemblyReference.cache
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.GeneratedMSBuildEditorConfig.editorconfig
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.AssemblyInfoInputs.cache
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.AssemblyInfo.cs
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.csproj.CoreCompileInputs.cache
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.dll
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/refint/RompeClaves.dll
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.pdb
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/RompeClaves.genruntimeconfig.cache
+/Users/agustrodmar/RiderProjects/RompeClaves/RompeClaves/obj/Debug/net7.0/ref/RompeClaves.dll
