@@ -1,7 +1,9 @@
-﻿using System.Security.Cryptography;
+using System.Security.Cryptography;
 using System.Text;
 
-class Program
+
+// ReSharper disable All
+class RompeClaves
 {
     static void Main()
     {
@@ -10,11 +12,12 @@ class Program
 
         try
         {
-            // Lee el archivo y lo muestra línea por línea.
+            // Voy a usar objeto de la clase StreamReader
             using (StreamReader sr = new StreamReader(path))
             {
-                string line;
-                while ((line = sr.ReadLine()) != null)
+                // ReadToEnd en vez de ReadLine
+                string[] lines = sr.ReadToEnd().Split(new[] { Environment.NewLine }, StringSplitOptions.None);
+                foreach (string line in lines)
                 {
                     string hashedPassword = ComputeSha256Hash(line);
                     if (hashedPassword == myPassword)
